@@ -1,6 +1,6 @@
 # About the Project
 
-It is a Simple React front-end app created using React. Used CRA(Create React app) to set up the project.
+It is a Simple front-end app created using React. Used CRA(Create React app) to set up the project.
 
 # Getting Started with Create React App
 
